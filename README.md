@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijah-ajadi" alt="elijah-ajadi" /></a> </p>
 
-- 🔭 I’m currently working on [RA CBT Platform](racbt.vercel.app)
+- 🔭 I’m currently working on [RA CBT Platform][https://racbt.vercel.app]
 
 - 🌱 I’m currently learning **Javascript, Perl, C++**
 
