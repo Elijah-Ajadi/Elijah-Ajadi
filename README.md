@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajadi Ademola</h1>
-<h3 align="center">Fullstack Developer(Django, Javascript, React, Python). I build applications that solve problems, save time, and simplify complex workflows. If it involves complex schemas, data integrity, or breaking the boundaries of traditional web app UI, I’m probably awake tweaking it on my Linux setup.</h3>
+<h3 align="center">Humble backend dev, I build any and every Idea I concieve.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijah-ajadi" alt="elijah-ajadi" /></a> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript, Perl, C++**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/21Century_Dev](https://linktr.ee/21Century_Dev)
+- 👨‍💻 All of my projects are available here
 
-- 📝 I regularly write articles on [https://elijahajadi.hashnode.dev/](https://elijahajadi.hashnode.dev/)
+- 📝 I write articles on [https://elijahajadi.hashnode.dev/](https://elijahajadi.hashnode.dev/)
 
 - 💬 Ask me about **Django, Python, Tailwind, AI, Wordpress,**
 
